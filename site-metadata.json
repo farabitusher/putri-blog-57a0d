@@ -92,6 +92,6 @@
     "footer": {
         "type": "footer",
         "template": "footer",
-        "content": ""
+        "content": "all right"
     }
 }
